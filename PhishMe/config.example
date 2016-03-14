@@ -1,0 +1,5 @@
+{"config": {
+  "test_url": "http://www.google.com",
+  "browser": "Chrome",
+  "text_input_file": "search_terms.txt"
+}}
