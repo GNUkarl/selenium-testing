@@ -1,0 +1,13 @@
+{"config": {
+  "test_url": "https://www.barkbox.com/super-chewer",
+  "browser": "Chrome",
+  "test_email": "testmail@site.com",
+  "dog_name": "Spot",
+  "first_name": "Test",
+  "last_name": "User",
+  "street_address": "221 Canal St",
+  "city": "New York",
+  "state": "NY",
+  "zip": "10013",
+  "tax_percentage": "8.875"
+}}
